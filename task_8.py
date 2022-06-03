@@ -51,7 +51,7 @@ while abs(row_member) > precision:
 	
 print('Сумма ряда с точностью', precision, 'равна', result)
 
-
+#lesson4.4 delete commits
 		
 		
 		
