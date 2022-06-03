@@ -119,7 +119,8 @@ year_annuity_payment(loan_sum, loan_percent, loan_years)
 	
 #lesson4.4 delete commits
 	
-	
+#lesson4.5 deleted commits as a structure
+#lesson4.5 added
 	
 	
 	
