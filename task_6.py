@@ -32,3 +32,5 @@ while begin - stop > 1e-15:
 	begin *= 0.916
 	count += 1
 print('Маятник остановится через', count, 'колебаний')
+
+#lesson4.4 delete commits
