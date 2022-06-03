@@ -78,3 +78,6 @@ acceptable_level = float(acceptable_level.replace(',' , '.'))
 round_level = digit_count(acceptable_level)
 depth = qubical_equation_trigonometrically(acceptable_level)
 print('Глубина отбора пробы:', round(depth, round_level), 'метров')
+
+
+#lesson4.4 delete commits
